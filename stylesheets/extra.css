@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
+.cormorant-garamond-title {
+  font-family: "Cormorant Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.tanganyika-logo {
+    width: 35%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 65px;
+    line-height: 1;
+}
+.editor-editorial-container {
+    font-family: "Cormorant Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.4;
+}
+.editor-editorial-list {
+    text-align: center;
+    text-transform: uppercase;
+}
+.editor-editorial-field {
+    font-weight: 700;
+    font-style: italic;
+}
